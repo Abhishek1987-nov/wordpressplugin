@@ -1,0 +1,11 @@
+List of Commands
+
+1.ls
+2.cd "C:\Users\ABHISHEK\Desktop\New folder"
+3.ls
+4.git init
+5.git remote add origin ---------(copy the link from the git repo)
+6.git remote -v
+7.git add .
+8.git commit -m "Second Commit"
+9.git push origin master
